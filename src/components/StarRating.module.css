@@ -1,0 +1,18 @@
+.stars {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.star {
+  display: flex;
+  align-items: center;
+}
+
+.value {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  margin-left: 4px;
+  font-family: var(--font-display);
+}
